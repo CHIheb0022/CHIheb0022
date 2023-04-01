@@ -4,13 +4,9 @@
 
 
 - 🔭 I’m currently working on **Smart Shin Guards**
-
 - 🌱 I’m currently learning **Software development and IOT systems**
-
 - 💬 Ask me about **Ask me about Data Structures & Algorithms**
-
 - 📫 How to reach me **chihebedine.hmida@ensi-uma.tn**
-
 - 📄 Know about my Network [https://www.linkedin.com/in/chihebeddine-hmida-5403b425b/](https://www.linkedin.com/in/chihebeddine-hmida-5403b425b/)
 
 <h3 align="left">Connect with me:</h3>
